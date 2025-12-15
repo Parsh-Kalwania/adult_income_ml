@@ -107,14 +107,14 @@ The dashboard complements the machine learning models by providing visual insigh
 bash
 pip install -r requirements.txt
 
-2.Train and compare models:
+  2.Train and compare models:
 
 python src/train_models.py
 
-3.Evaluate best model:
+  3.Evaluate best model:
 
 python src/evaluate_best_model.py
 
-4.Tune Gradient Boosting model:
+  4.Tune Gradient Boosting model:
 
 python src/tune_model.py
